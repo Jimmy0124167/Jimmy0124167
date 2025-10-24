@@ -31,7 +31,7 @@ Open to innovative game projects, web applications, and cybersecurity solutions.
 [LinkedIn](Your_LinkedIn_here) | [Email](kitsojimmynkalanga@gmail.com)
 
 ### ⚡ Fun Fact
-I mix code with creativity—optimizing performance, exploring exploits, and crafting worlds.
+I mix code with creativity optimizing performance, exploring exploits, and crafting worlds.
 
 ---
 
