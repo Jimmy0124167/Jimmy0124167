@@ -28,7 +28,7 @@ I’m a 4th-year Computing student at the University of Botswana, obsessed with 
 Open to innovative game projects, web applications, and cybersecurity solutions.
 
 ### 📫 Reach Me
-[LinkedIn](Your_LinkedIn_here) | [Email](kitsojimmynkalanga@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/kitso-jimmy-nkalanga-9bbb62378/) | [Email](kitsojimmynkalanga@gmail.com)
 
 ### ⚡ Fun Fact
 I mix code with creativity optimizing performance, exploring exploits, and crafting worlds.
